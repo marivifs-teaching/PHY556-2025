@@ -1,60 +1,53 @@
-# PHY 555: Solid State Physics I
+# PHY 556: Solid State Physics II
 
-**Instructor:** Marivi Fernandez-Serra, Physics B139, maria.fernandez-serra@stonybrook.edu
+**Instructor:** Marivi Fernandez-Serra, Physics B139, marivi.fernandez-serra@stonybrook.edu
 
-**Lecture Time:** Mondays and Wednesdays 9:30-10:50am
+**Lecture Time:** Mondays and Wednesdays 2:00-3:20 pm
 
-**Web:** https://marivifs-teaching.github.io/PHY555-2024
+**Web:** https://marivifs-teaching.github.io/PHY556-2025
 
 **Office Hours:**
-(Tentatively:) Mondays and Wednesdays 11:00 am - 12:00 pm
+By Appointment,
 
 
 ## Texts:
-We will use a combination of books. In the past I have used the book by **Cohen and Louie (Fundamentals of Condensed Matter Physics, Cambridge University Press)**. I will use it also this semester for some sections. You can also choose to buy other. My preferred book has always been Ashcoft, tied to Ziman's. However the new book by Cohen and Luie is way more modern. This semester I will also use **Solid State Physics, by Giuseppe Grosso and Giuseppe Pastori
-Parravicini**, any edition is fine (Elsevier, isbn: 9780080481029). The main reason this text was chosen, is that it provides more modern topics and treatment of solid-state
-physics.
-
+We will use a combination of books, but our core book will be  **Martin, Reining and Ceperley (Interacting electrons: Theory and Computational approaches, Cambridge University Press)**. 
 
 ## Course Objectives:
-* Understand the basic properties of crystalline solids and other condensed-matter systems
-* Learn methods for describing the electronic and lattice structure of solids
-* Understand the theory behind experimental probes of solid-state systems
+* Gaining a practical understanding of computational electronic structure methods in condensed matter physics with focus on Many-Body Physics.
+* Learning the theoretical background of many-body perturbation theory.
+*  Introudction to dynamical mean-field theory and Quantum Monte Carlo simulations.
+* Gaining a broad overviow in all these methods, adquiring the sufficient basis to enter in the field as a practitioner.
 
 ## Lecture organization and topics:
 Course material will be presented through lectures on the blackboard, and occasionally with slides. Notes
 will be posted on the class website as well as further readings. Topics will include:
 
 
-topic | G & P Ch. | C & L Ch.
-------|-----------|---------
-Crystal lattices | II | 2.5
-Semiclassical treatment of electrons | III | 3.1  
-Band theory of crystals | V | 3.2-3.7
-Electronic structure properties and methods | II,VI | 6,7
-Electronic excitations (excitons, plasmons) | VII | 8,9
-Dielectric screening | VII | 8
-Electron-lattice coupling, phonons | VIII, IX | 4,10
-X-ray, neutron scattering | X | Na
-Optical and transport properties | XI-XIV | 9,11,12
-Magnetic properties | XV-XVII | 15
-Superconductivity | XVIII | 14
+topic |  Ch. | 
+------|-----------
+Overview of the Many Electron Problem | I
+Experimental signatures of electron Correlation | II
+Hamiltonian Models for Interacting Electrons | III
+Mean Field Approaches | IV
+Correlation functions | V
+Many Body wave functions | VI
+Particles and Quasi particles: Green's functions | VII
+Functionals in Many body physics | VIII
+Many Body Perturbation Theory | IX-X
+RPA and GW | XI-XIII
+Bethe Salpeter equation | XIV
+Dynamical mean-field theory | XVI-XX
+Stochastic methods | XXII-XXV
+
 
 
 ## Homework:
-Homework will be assigned every 1-2 weeks via the course webpage. Assignments will include conceptual,
-analytical, and computational exercises (only very light coding will be required via, e.g., mathematica,
-matlab, python, or another language of your choice). **Assignments will be submitted via Brightspace.**
-
-**Homework will be worth 50 % of the final grade.**
+There will be little homework required, the course will be very interactive and participation through paper presentations will be required.
+**Participation and project presentation will be worth  100% of the final grade.**
 
 ## Exams:
-There will be one midterm exam  and a final exam (during the assigned final exam period).
-	
-	* MT Exam Date November 4 (Monday) in Class time
-
-The final will be cumulative. The midterm will be worth 20 % of the final grade, and the final
-exam will be worth 30 % of the final grade.
+This will be a participative class with no exams but students will be expected to engage in active discussions.
 
 ### Americans with Disabilities Act:
 If you have a physical, psychological, medical or learning disability that may impact your course work, please
