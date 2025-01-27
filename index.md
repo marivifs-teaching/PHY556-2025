@@ -5,7 +5,7 @@ tagline: PHY 556: Solid State Physics II
 description: Graduate Solid State Physics II, PHY 556 Website.
 ---
 
-# PHY 555: Solid State Physics 1
+# PHY 556: Solid State Physics II
 
 *Instructor: Marivi Fernandez-Serra, Physics B139, maria.fernandez-serra@stonybrook.edu*  
 
@@ -23,13 +23,8 @@ description: Graduate Solid State Physics II, PHY 556 Website.
   <summary>Lecture 1: Intro and motivation</summary>
 
 <ul>
-  <li> <a href="./pages/Lectures/L1/Lec1.pdf" target="_blank" rel="noopener noreferrer">Lecture 1 notes</a>  </li>
-  <li> Readings: </li>
-  <ul>
-  <li> <a href="./pages/Lectures/L1/Anderson-MoreIsDifferent.pdf" target="_blank" rel="noopener noreferrer">More is Different, Phil Anderson</a> </li>
-  <li> <a href="./pages/Lectures/L1/Vishik-TheJoyOfCondensedMatterPhysics.pdf" target="_blank" rel="noopener noreferrer">The Joy Of Condensed Matter Physics, Inna Vishik</a> </li>
+  <li> <a href="./pages/Lectures/L1.pdf" target="_blank" rel="noopener noreferrer">Lecture 1 notes</a>  </li>
   </ul>
-</ul>
 </details>
 
 
