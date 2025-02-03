@@ -20,11 +20,32 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 ## Lectures
 
 <details>
-  <summary>Lecture 1: Intro and motivation</summary>
+  <summary>Lecture 1-2: Intro and motivation</summary>
 
 <ul>
   <li> <a href="./pages/Lectures/L1.pdf" target="_blank" rel="noopener noreferrer">Lecture 1 notes</a>  </li>
+  
+   <li> Readings: </li>
+  <ul>
+  <li> Interacting electrons Chapters 1-3 </li>
+    </ul>  
+
+  
   </ul>
 </details>
+
+<details>
+  <summary>Lectures 2-3: Hubbard Dimer </summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/HubbardDimer.pdf" target="_blank" rel="noopener noreferrer">Lecture 2 notes</a>  </li>
+  
+  <li> Readings: </li>
+  <ul>
+  <li> <a href="./pages/Lectures/FalicovHarris.pdf" target="_blank" rel="noopener noreferrer">Falicov Harris 1969 Paper</a> </li>
+    </ul>  
+  </ul>
+</details>
+
 
 
