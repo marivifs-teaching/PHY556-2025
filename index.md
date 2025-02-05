@@ -18,7 +18,6 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 [Syllabus](pages/syllabus.html)
 
 ## Calendar
-
 |Day | Lecture |
 |----|------------|
 |Jan 27| L1|
@@ -51,6 +50,7 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 |Apr 30|L20|
 |May 5|L21|
 |May 7|L22|
+
 
 
 ## Lectures
