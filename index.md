@@ -17,6 +17,42 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 
 [Syllabus](pages/syllabus.html)
 
+## Calendar
+
+|Day | Lecture |
+|----|------------|
+|Jan 27| L1|
+|Jan 29|L2|
+|Feb 3|L3|
+|Feb 5|L4|
+|Feb 10|L5|
+|Feb 12|L6|
+|Feb 17|L7|
+|Feb 19|L8|
+|Feb 24|L9|
+|Feb 26|No Lecture|
+|Mar 3|L10|
+|Mar 5|No Lecture|
+|Mar 10|L11|
+|Mar 12|L12|
+|Mar 17|Spring Break|
+|Mar 19|Spring Break|
+|Mar 24|L12|
+|Mar 26|No Lecture|
+|Mar 31|L13|
+|Apr 2|L14|
+|Apr 7|No Lecture|
+|Apr 9|No Lecture|
+|Apr 14|L15|
+|Apr 16|L16|
+|Apr 21|L17|
+|Apr 23|L18|
+|Apr 28|L19|
+|Apr 30|L20|
+|May 5|L21|
+|May 7|L22|
+
+
 ## Lectures
 
 <details>
