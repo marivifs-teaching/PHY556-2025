@@ -20,7 +20,7 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 ## Calendar
 
 |Day | Lecture |
-|:----------:|:----------:|
+|:----------:|:-------------------:|
 |Jan 27| L1|
 |----|---|
 |Jan 29|L2|
