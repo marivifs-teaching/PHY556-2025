@@ -86,7 +86,7 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 ## Lectures
 
 <details>
-  <summary>Lecture 1-2: Intro and motivation</summary>
+  <summary>W1: Lecture 1-2: Intro and motivation</summary>
 
 <ul>
   <li> <a href="./pages/Lectures/L1.pdf" target="_blank" rel="noopener noreferrer">Lecture 1 notes</a>  </li>
@@ -101,10 +101,10 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 </details>
 
 <details>
-  <summary>Lectures 2-3: Hubbard Dimer </summary>
+  <summary>W2: Lectures 3-4: Hubbard Dimer </summary>
 
 <ul>
-  <li> <a href="./pages/Lectures/HubbardDimer.pdf" target="_blank" rel="noopener noreferrer">Lecture 2 notes</a>  </li>
+  <li> <a href="./pages/Lectures/HubbardDimer.pdf" target="_blank" rel="noopener noreferrer">Lecture 3-4 notes</a>  </li>
   
   <li> Readings: </li>
   <ul>
@@ -113,5 +113,20 @@ description: Graduate Solid State Physics II, PHY 556 Website.
   </ul>
 </details>
 
+<details>
+  <summary>W3: Lectures 4-5 : Mean Fields and Auxiliary systems </summary>
 
+<ul>
+  <li> <a href="./pages/Lectures/L3_I.pdf" target="_blank" rel="noopener noreferrer">Lecture 5 notes</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L3Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 5 slides</a>  </li>
+  
+  <li> <a href="./pages/Lectures/appendix1-5.pdf" target="_blank" rel="noopener noreferrer">Lecture 5 extra</a>  </li>
+
+  <li> Readings: </li>
+  <ul>
+  <li>Interacting Electrons Chapter 4</li>
+    </ul>  
+  </ul>
+</details>
 
