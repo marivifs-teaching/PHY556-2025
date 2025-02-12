@@ -114,7 +114,7 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 </details>
 
 <details>
-  <summary>W3: Lectures 4-5 : Mean Fields and Auxiliary systems </summary>
+  <summary>W3: Lectures 5-6 : Mean Fields and Auxiliary systems </summary>
 
 <ul>
   <li> <a href="./pages/Lectures/L3_I.pdf" target="_blank" rel="noopener noreferrer">Lecture 5 notes</a>  </li>
@@ -122,6 +122,11 @@ description: Graduate Solid State Physics II, PHY 556 Website.
   <li> <a href="./pages/Lectures/L3Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 5 slides</a>  </li>
   
   <li> <a href="./pages/Lectures/appendix1-5.pdf" target="_blank" rel="noopener noreferrer">Lecture 5 extra</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L3_II.pdf" target="_blank" rel="noopener noreferrer">Lecture 6 notes</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L3_IISlides.pdf" target="_blank" rel="noopener noreferrer">Lecture 6 slides</a>  </li>
+
 
   <li> Readings: </li>
   <ul>
