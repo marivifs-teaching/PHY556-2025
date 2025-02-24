@@ -136,16 +136,16 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 </details>
 
 <details>
-  <summary>W4: Lectures 7-8 : Correlation Functions </summary>
+  <summary>W4: Lectures 7-9 : Correlation Functions </summary>
 
 <ul>
   <li> <a href="./pages/Lectures/L4Notes_I.pdf" target="_blank" rel="noopener noreferrer">Lecture 7 notes</a>  </li>
   
   <li> <a href="./pages/Lectures/L4_ISlides.pdf" target="_blank" rel="noopener noreferrer">Lecture 7 slides</a>  </li>
   
-  <li> <a href="./pages/Lectures/L4_IINotes.pdf" target="_blank" rel="noopener noreferrer">Lecture 7 notes</a>  </li>
+  <li> <a href="./pages/Lectures/L4_IINotes.pdf" target="_blank" rel="noopener noreferrer">Lecture 8-9 notes</a>  </li>
   
-  <li> <a href="./pages/Lectures/L4_IISlides.pdf" target="_blank" rel="noopener noreferrer">Lecture 7 slides</a>  </li>
+  <li> <a href="./pages/Lectures/L4_IISlides.pdf" target="_blank" rel="noopener noreferrer">Lecture 8-9 slides</a>  </li>
 
   
   <li> Readings: </li>
