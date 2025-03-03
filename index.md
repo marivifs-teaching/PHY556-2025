@@ -154,3 +154,20 @@ description: Graduate Solid State Physics II, PHY 556 Website.
     </ul>  
   </ul>
 </details>
+
+<details>
+  <summary>W5: Lectures 10-11 : Correlation Functions </summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L5Notes.pdf" target="_blank" rel="noopener noreferrer">Lecture 10-11 notes</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L5_Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 10-11 slides</a>  </li>
+  
+  
+  <li> Readings: </li>
+  <ul>
+  <li>Interacting Electrons Chapter 7</li>
+    </ul>  
+  </ul>
+</details>
+
