@@ -156,7 +156,7 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 </details>
 
 <details>
-  <summary>W5: Lectures 10-11 : Correlation Functions </summary>
+  <summary>W5: Lectures 10-11 : Particles and Quasiparticles </summary>
 
 <ul>
   <li> <a href="./pages/Lectures/L5Notes.pdf" target="_blank" rel="noopener noreferrer">Lecture 10-11 notes</a>  </li>
@@ -167,6 +167,22 @@ description: Graduate Solid State Physics II, PHY 556 Website.
   <li> Readings: </li>
   <ul>
   <li>Interacting Electrons Chapter 7</li>
+    </ul>  
+  </ul>
+</details>
+
+<details>
+  <summary>W6: Lectures 12-13 : Many Body Pertrubation Theory </summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L6_INotes.pdf" target="_blank" rel="noopener noreferrer">Lecture 12 notes</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L6_ISlides.pdf" target="_blank" rel="noopener noreferrer">Lecture 12 slides</a>  </li>
+  
+  
+  <li> Readings: </li>
+  <ul>
+  <li>Interacting Electrons Chapter 9</li>
     </ul>  
   </ul>
 </details>
