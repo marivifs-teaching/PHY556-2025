@@ -187,3 +187,20 @@ description: Graduate Solid State Physics II, PHY 556 Website.
   </ul>
 </details>
 
+<details>
+  <summary>W7: Lectures 14-15 : Functionals in Many Particle Physics </summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L7Notes.pdf" target="_blank" rel="noopener noreferrer">Lecture 14 notes</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L7Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 14 slides</a>  </li>
+  
+  
+  <li> Readings: </li>
+  <ul>
+  <li>Interacting Electrons Chapter 8</li>
+    </ul>  
+  </ul>
+</details>
+
+
