@@ -204,3 +204,18 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 </details>
 
 
+<details>
+  <summary>W8: Lectures 16-17 : MBPT through Functional Derivatives </summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L8_1Notes.pdf" target="_blank" rel="noopener noreferrer">Lecture 16 notes</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L8_1Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 16 slides</a>  </li>
+  
+  
+  <li> Readings: </li>
+  <ul>
+  <li>Interacting Electrons Chapter 10</li>
+    </ul>  
+  </ul>
+</details>
