@@ -82,6 +82,18 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 | May 7 ||  L22 |
 {: rules="groups"}
 
+## Projects
+
+<details>
+  <summary>List of Possible Projects</summary>
+
+<ul>
+  <li> <a href="./pages/projects.pdf" target="_blank" rel="noopener noreferrer">Projects (open list)</a>  </li>
+  
+    
+  </ul>
+</details>
+
 
 ## Lectures
 
@@ -212,13 +224,38 @@ description: Graduate Solid State Physics II, PHY 556 Website.
   
   <li> <a href="./pages/Lectures/L8_1Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 16 slides</a>  </li>
   
-  <li> <a href="./pages/Lectures/L8_2Notes.pdf" target="_blank" rel="noopener noreferrer">Lecture 16 notes</a>  </li>
+  <li> <a href="./pages/Lectures/L8_2Notes.pdf" target="_blank" rel="noopener noreferrer">Hubbard Dimer notes</a>  </li>
+  
+  <li> <a href="./pages/Lectures/Hubbard-Dimer-G.ipynb" target="_blank" rel="noopener noreferrer">Hubbard Dimer notebook</a>  </li>
 
   
   
   <li> Readings: </li>
   <ul>
   <li>Interacting Electrons Chapter 10</li>
+  <li> <a href="./pages/Lectures/HubbardDimerPaper.pdf" target="_blank" rel="noopener noreferrer">GW Hubbard Dimer Paper</a> </li>
+
     </ul>  
   </ul>
 </details>
+
+<details>
+  <summary>W9: Lectures 18-19 : RPA and GW </summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L9Notes.pdf" target="_blank" rel="noopener noreferrer">Lecture 9 notes</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L9Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 9 slides</a>  </li>
+  
+  
+  <li> Readings: </li>
+  <ul>
+  <li>Interacting Electrons Chapter 11</li>
+   <li> <a href="./pages/Lectures/HubbardDimerPaper.pdf" target="_blank" rel="noopener noreferrer">GW Hubbard Dimer Paper</a> </li>
+
+    </ul>  
+  </ul>
+</details>
+
+
+
