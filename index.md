@@ -243,11 +243,12 @@ description: Graduate Solid State Physics II, PHY 556 Website.
   <summary>W9: Lectures 18-19 : RPA and GW </summary>
 
 <ul>
-  <li> <a href="./pages/Lectures/L9Notes.pdf" target="_blank" rel="noopener noreferrer">Lecture 9 notes</a>  </li>
+  <li> <a href="./pages/Lectures/L9Notes.pdf" target="_blank" rel="noopener noreferrer">L18notes</a>  </li>
   
-  <li> <a href="./pages/Lectures/L9Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 9 slides</a>  </li>
+  <li> <a href="./pages/Lectures/L9Slides.pdf" target="_blank" rel="noopener noreferrer">L18 slides</a>  </li>
   
-  
+  <li> <a href="./pages/Lectures/HubbardGW.pdf" target="_blank" rel="noopener noreferrer">Hubbard Dimer GW</a>  </li>
+
   <li> Readings: </li>
   <ul>
   <li>Interacting Electrons Chapter 11</li>
