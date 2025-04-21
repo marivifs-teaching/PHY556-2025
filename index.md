@@ -259,4 +259,22 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 </details>
 
 
+<details>
+  <summary>W10: Lectures 20-21 : GW Calculations in Practice </summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L10Notes.pdf" target="_blank" rel="noopener noreferrer">L20notes</a>  </li>
+  
+  <li> <a href="./pages/Lectures/L10Slides.pdf" target="_blank" rel="noopener noreferrer">L20 slides</a>  </li>
+  
+  
+
+  <li> Readings: </li>
+  <ul>
+  <li>Interacting Electrons Chapter 12-13</li>
+   
+
+    </ul>  
+  </ul>
+</details>
 
