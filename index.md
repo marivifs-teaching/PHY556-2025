@@ -89,6 +89,9 @@ description: Graduate Solid State Physics II, PHY 556 Website.
 
 <ul>
   <li> <a href="./pages/projects.pdf" target="_blank" rel="noopener noreferrer">Projects (open list)</a>  </li>
+  <li> 
+  <a href="https://docs.google.com/spreadsheets/d/1vY8nnIx8hXfy8hTolk6skL3LTAW2C3RLPn1j0s-sjgc/edit?gid=0#gid=0"> Sign up form</a>
+ </li>
   
     
   </ul>
