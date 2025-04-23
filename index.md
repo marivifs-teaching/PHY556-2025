@@ -269,7 +269,8 @@ description: Graduate Solid State Physics II, PHY 556 Website.
   <li> <a href="./pages/Lectures/L10Notes.pdf" target="_blank" rel="noopener noreferrer">L20notes</a>  </li>
   
   <li> <a href="./pages/Lectures/L10Slides.pdf" target="_blank" rel="noopener noreferrer">L20 slides</a>  </li>
-  
+   <li> <a href="./pages/Lectures/HubbardDimerComplete.pdf" target="_blank" rel="noopener noreferrer">Hubbard Dimer Recap</a>  </li>
+   <li> <a href="./pages/Lectures/HubbardDimerComplete.ipynb" target="_blank" rel="noopener noreferrer">Hubbard Dimer Complete Code</a>  </li>
   
 
   <li> Readings: </li>
