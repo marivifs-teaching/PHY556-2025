@@ -282,3 +282,18 @@ description: Graduate Solid State Physics II, PHY 556 Website.
   </ul>
 </details>
 
+<details>
+  <summary>W11: Lecture 22 : Quantum Embedding</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/QENotes.pdf" target="_blank" rel="noopener noreferrer">QEnotes</a>  </li>
+   
+
+  <li> Readings: </li>
+  <ul>
+  <li>Interacting Electrons Chapter 16 and 18</li>
+   
+
+    </ul>  
+  </ul>
+</details>
