@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PHY556-2025
+title: PHY556-2026
 tagline: PHY 556: Solid State Physics II
 description: Graduate Solid State Physics II, PHY 556 Website.
 ---
